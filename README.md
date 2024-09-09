@@ -1,53 +1,49 @@
-# 3D Environment Design with Blender
+# 블렌더로 만드는 3D 환경 디자인
 
-<a href="https://www.packtpub.com/product/3d-environment-design-with-blender/9781803235851?utm_source=github&utm_medium=repository&utm_campaign=9781803235851"><img src="https://static.packt-cdn.com/products/9781803235851/cover/smaller" alt="" height="256px" align="right"></a>
+<img src="https://www.youngjin.com/images/book_cover/9788931469844.jpg" height="350px" style="border: 2px solid grey;">
 
-This is the code repository for [3D Environment Design with Blender](https://www.packtpub.com/product/3d-environment-design-with-blender/9781803235851?utm_source=github&utm_medium=repository&utm_campaign=9781803235851), published by Packt.
+[블렌더로 만드는 3D 환경 디자인(영진닷컴)](https://blog.naver.com/ydot/223251304286)
 
-**Enhance your modeling, texturing, and lighting skills to create realistic 3D scenes**
+『블렌더로 만드는 3D 환경 디자인』는 디자인 과정을 완벽하게 이해하고 실제로 적용할 수 있도록 단계별로 구성되어 있습니다. 더 나은 디자인을 위한 실용적인 팁과 기술을 소개하며, 여러분들이 높은 수준의 3D 디자인을 만들어 낼 수 있도록 도와줍니다. 책의 장점 중 하나는 실무 중심의 내용을 처음부터 끝까지 설명하고 있어서, 이 분야에 처음 발을 딛는 사람들부터 숙련된 전문가까지 모두에게 유익한 내용을 제공합니다.
 
-## What is this book about?
-Blender is a powerful tool for creating all kinds of visual assets, but with such power comes complexity. Creating a photorealistic 3D scene seems like a Herculean task for more than 90% of 3D designers, but don't be discouraged! 3D Environment Design with Blender will get you up and running. 
+사실적인 자연 식물 제작하기와 환경 조명 구현하기, 지형 만들기 과정을 거치다 보면 이 책에서 보여주는 최종 결과물에 다다를 수 있게 됩니다. 혼자 해내기 어려웠던 부분들이 있었다면 이 책을 통해 여러분이 했던 실수들을 줄이고 전체적으로 블렌더가 어떻게 작동하는지 깨우칠 수 있게 됩니다.
 
-This book covers the following exciting features:
-* Understand how to avoid the most common modeling mistakes 3D   designers make
-* Create realistic landscapes using Blender's built-in A.N.T Landscape add-on
-* Build natural assets such as rocks, flowers, plants, and rivers that you can customize and use in a variety of projects
-* Create realistic materials such as snow, mud, wood and animated water
-* Use the particle system to generate realistic grass, as well as scatter flowers and rocks
-* Apply the five lighting rules to achieve great photorealistic results
-* Use nodes and materials effectively to produce impressive results
+이 책은 간단한 이론을 설명함과 동시에, 실제 프로젝트에서 적용 가능한 노하우를 제시하여 독자들이 배운 기술을 실제 환경에서 적용할 수 있도록 돕습니다. 또한, 자연 환경에 속해있는 물체들을 만들어보고 전체적인 디자인 과정을 소개함으로써 독자들이 다양한 분야에서 활용할 수 있는 넓은 시야를 제공합니다. 이 책을 통해 독자들은 블렌더를 이용하여 뛰어난 3D 환경을 설계하고 제작하는 기술과 노하우를 습득할 수 있을 것입니다.
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1803235853) today!
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
+**저자** Abdelilah Hamdani
+**역자** 최도원
+**발행일** 2023년 12월 15일
+**크기** 188*257mm  
+**쪽수** 288쪽  
+**가격** 25,000원  
+**ISBN** 9788931469844  
 
-## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+<br>
 
-**Following is what you need for this book:**
-This book is for 3D environment artists and open-world game designers who have tried designing 3D environments but have trouble finding the right Blender settings. If you feel overwhelmed understanding how nodes and materials work in Blender, this book will simplify it for you and help you achieve photorealism in your environments in no time. Familiarity with the Blender interface is expected to get the most out of this book.
+## 설명 및 네비게이션
+모든 코드는 폴더로 구성되어 있습니다. 예를 들어, Chapter02.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
-### Software and Hardware List
-| Chapter | Software required | OS required |
+**다음은 이 책을 위한 준비물입니다:**
+이 책은 3D 환경 아티스트와 오픈 월드 게임 디자이너를 위한 것으로, 3D 환경을 설계하려 했지만 적절한 Blender 설정을 찾는 데 어려움을 겪는 분들을 대상으로 합니다. Blender에서 노드와 재료의 작동 방식을 이해하는 것이 복잡하게 느껴진다면, 이 책은 이를 간단하게 설명하고 빠른 시간 내에 환경에서 사실적인 효과를 달성할 수 있도록 도와줍니다. Blender 인터페이스에 익숙하다면 이 책에서 더 많은 도움을 받을 수 있습니다.
+
+다음의 소프트웨어 및 하드웨어 목록으로 책의 모든 코드 파일(1-13장)을 실행할 수 있습니다.
+### 소프트웨어 및 하드웨어 목록
+| 챕터 | 필요한 소프트웨어 | 필요한 운영 체제 |
 | -------- | ------------------------------------ | ----------------------------------- |
-| 1-13 | Blender 3.3 or above | Windows, Mac OS X, and Linux (Any) |
+| 1-13 | Blender 3.3 이상 | Windows, Mac OS X, 및 Linux (모든 버전) |
 | 1-13 | fSpy | Windows |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/KOKhm).
+또한, 이 책에서 사용된 스크린샷/다이어그램의 컬러 이미지를 포함한 PDF 파일도 제공합니다. [여기를 클릭하여 다운로드하세요](https://packt.link/KOKhm).
 
-### Related products
-* Blender 3D Incredible Models [[Packt]](https://www.packtpub.com/product/blender-3d-incredible-models/9781801817813?utm_source=github&utm_medium=repository&utm_campaign=9781801817813) [[Amazon]](https://www.amazon.com/dp/1801817812)
+<br>
 
-* Blender 3D By Example - Second Edition [[Packt]](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561?utm_source=github&utm_medium=repository&utm_campaign=9781789612561) [[Amazon]](https://www.amazon.com/dp/178961256X)
+## 💡실습용 예제 파일 & 소스 코드
+도서 실습에 필요한 예제 파일과 소스 코드는 챕터별로 구성하였으며, 깃허브 저장소뿐만 아니라 [영진닷컴 홈페이지](https://www.youngjin.com/reader/pds/pds.asp)에서도 다운로드받을 수 있습니다.  
+코드 작성 시에는 코드를 직접 입력하거나, 책에서 제공하는 소스 코드 파일을 사용하세요.
 
-## Get to Know the Author
-**Abdelilah Hamdani** is a photorealistic environment designer and 3D animator who is experienced in producing 3D art in a professional environment. Projects he has worked on include the 2020 Kuwait election and the US Gambian bridge construction. Abdelilah is also an online instructor who has
-taught more than 25,000 students worldwide. He is the founder of Reality Fakers, a platform that teaches 3D photorealism.
+<br>
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781803235851">https://packt.link/free-ebook/9781803235851 </a> </p>
+## 💡문의 및 정오표
+- [문의](mailto:Support@youngjin.com)
+- [정오표](https://www.youngjin.com/Artyboard/mboard.asp?strBoardID=errata)
