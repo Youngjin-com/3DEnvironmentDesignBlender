@@ -1,6 +1,6 @@
 # 블렌더로 만드는 3D 환경 디자인
 
-<img src="https://www.youngjin.com/images/book_cover/9788931469844.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931469844.png" height="350px" style="border: 2px solid grey;">
 
 [블렌더로 만드는 3D 환경 디자인(영진닷컴)](https://blog.naver.com/ydot/223251304286)
 
